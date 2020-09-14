@@ -1,0 +1,2 @@
+export const ADD_HOOFERS = "ADD_HOOFERS"
+export const REMOVE_HOOFERS = "REMOVE_HOOFERS"

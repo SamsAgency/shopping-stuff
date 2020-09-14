@@ -1,0 +1,36 @@
+.nav {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(51, 59, 85);
+    color: white;
+    justify-self: center;
+    padding: 0%;
+}
+
+.logo{
+    display: flex;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+    color: white !important;
+}
+
+.the-lists{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    margin-left: 20%;
+    padding: 0%;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.lists{
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    color: white !important;
+    align-items: baseline !important;
+}
